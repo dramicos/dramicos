@@ -14,8 +14,7 @@
 
 
 
-Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | ML webapps with ᖴᒪᗩᔕK | Tᴇɴꜱᴏʀғʟᴏᴡ | NLP ||
-【P】【y】【t】【h】【o】【n】
+Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | Tᴇɴꜱᴏʀғʟᴏᴡ | NLP |【P】【y】【t】【h】【o】【n】
 
 ## About ::
    I currently work as technologist doing R&D at Dupont Water Solutions. I have a B.S in Mathematics. Finishing a data bootcamp from the University of Minnesota. Excited about Data Science, Machine Learning and open source. I am currently learning new technologies to implement on real world projects.
