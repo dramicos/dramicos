@@ -16,13 +16,12 @@
 
 Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | Tᴇɴꜱᴏʀғʟᴏᴡ | NLP |【P】【y】【t】【h】【o】【n】
 
-## About ::
+## About :
    I currently work as technologist doing R&D at Dupont Water Solutions. I have a B.S in Mathematics. Finishing a data bootcamp from the University of Minnesota. Excited about Data Science, Machine Learning and open source. I am currently learning new technologies to implement on real world projects.
 
  
-## Languages and Tools
 
-## Talking about personal stuff ::
+## Talking about personal stuff :
 -  My interests are with Natural Language Processing/Understanding, Computer vision, Deep Learning, etc..;
 - Coding and developing useful code.⭐️
 - Just loved to Explore new Technologies.💻
