@@ -1,18 +1,8 @@
 # <a href="https://www.linkedin.com/in/arnold-schultz-66250564/">Arnold Schultz</a>
 
-
-<a href="https://www.linkedin.com/in/arnold-schultz-66250564/">
-  <img align="left" alt="Arnold's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/dramicos">
-  <img align="left" alt="Arnold's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
+## Link to my website: [Dramicos.io](https://dramicos.github.io/)
 
 <br/>
-<br/>
-
-
 
 Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | Tᴇɴꜱᴏʀғʟᴏᴡ | NLP |【P】【y】【t】【h】【o】【n】
 
@@ -22,12 +12,12 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
  
 
 ## Talking about personal stuff :
--  My interests are with Natural Language Processing/Understanding, Computer vision, Deep Learning, etc..;
+- Some of my interests are with Natural Language Processing/Understanding, Computer vision, Deep Learning, etc..;
 - Coding and developing useful code.⭐️
-- Just loved to Explore new Technologies.💻
-- Always Willing to help (Altruistic). ✋
+- I love to explore new technologies.💻
+- I am willing to help when I can. ✋
 - 👨🏽‍💻 I’m currently working on improving my techskills;
-- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between😸😸
+- 💬 Talk to me about the nature of the Universe, the sound of music, art and expression, and everything in between😸😸
 
 # 🔥:  **Languages and Tools**  :🔥
 
