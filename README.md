@@ -46,7 +46,7 @@ Aꜱᴘɪʀɪɴɢ Dᴀᴛᴀ Sᴄɪᴇɴᴛɪꜱᴛ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀ
 <img src="https://github-readme-stats.vercel.app/api?username=dramicos&&show_icons=true&theme=radical&line_height=27&v=5" alt="Dramicos's GitHub Stats" />
 
 ##  Let's connect :speech_balloon:
-[![Linkedin Badge](https://img.shields.io/badge/-Arnold-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnold-schultz-66250564/)](https://www.linkedin.com/in/gorasiyaneel/) [![Gmail Badge](https://img.shields.io/badge/-dramicos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dramicos@gmail.com)](mailto:dramicos@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Arnold-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnold-schultz-66250564/)](https://www.linkedin.com/in/arnold-schultz-66250564/) [![Gmail Badge](https://img.shields.io/badge/-dramicos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dramicos@gmail.com)](mailto:dramicos@gmail.com)
 
 
 
