@@ -1,5 +1,7 @@
 # <a href="https://www.linkedin.com/in/arnold-schultz-66250564/">Arnold Schultz</a>
 
+![](https://komarev.com/ghpvc/?username=dramicos&color=red&style=plastic)
+
 ## Link to my website: [Dramicos.io](https://dramicos.github.io/)
 
 <br/>
